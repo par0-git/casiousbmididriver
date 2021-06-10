@@ -1,7 +1,7 @@
 # Casio USB MIDI Driver for macOS
 
 ## New information
-If you are can use the original driver, use that instead!! This is not great and it's a lot easier to use the installer.
+If you can use the original driver, use that instead!! This is not great and it's a lot easier to use the installer.
 
 I've also created a release for M1 Macs only (? you could maybe try it on an Intel one but I can't test it), you can find it at the Releases page.
 
