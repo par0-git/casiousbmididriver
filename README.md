@@ -1,9 +1,11 @@
 # Casio USB MIDI Driver for macOS
 
 ## New information
-If you are NOT on an M1 Mac / can use the original driver, use that instead!! This is not great and it's a lot easier to use the installer.
+If you are can use the original driver, use that instead!! This is not great and it's a lot easier to use the installer.
 
-But if you can't use the original, heres some information before you proceed:
+I've also created a release for M1 Macs only (? you could maybe try it on an Intel one but I can't test it), you can find it at the Releases page.
+
+But if you can't use the original or the release, heres some information before you proceed:
 casiousbmididriver is made by francoisferland, I have just created a (pretty-bad!) Xcode project for the 10.7 version that can be compiled on & for newer Macs. The Xcode project is based on the one provided with the original sample code by Apple. It'll build to a random location in the Xcode application and you can just get the plugin that comes out and put it in /Library/Audio/MIDI Drivers.
 
 ## Original
